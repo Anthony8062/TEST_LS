@@ -1,3 +1,4 @@
+int adc = 0;
 void adc()
 {
     int a = 0;
