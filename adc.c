@@ -1,5 +1,6 @@
 int adc = 0;
 int adc_swp = 0;
+
 void adc()
 {
     int a = 0;
