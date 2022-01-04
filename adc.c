@@ -1,4 +1,4 @@
-int adc_swp = 0;
+int adc = 0;
 void adc()
 {
     int a = 0;
