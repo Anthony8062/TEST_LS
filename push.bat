@@ -8,6 +8,5 @@ git commit -m "modify"
 git push origin DEV
 
 @echo [git log] you clicked the push.bat file.
-@echo [git log] you clicked the push.bat file.2
 
 pause
